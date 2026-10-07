@@ -1,7 +1,7 @@
 <p align="center">
 
   <!-- Badge con fondo amarillo -->
-  <img src="https://img.shields.io/badge/JAVASCRIPT-FFD700?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/JAVASCRIPT-FFD700?style=for-the-badge&logo=python&logoColor=black" />
   
   <!-- Badge con fondo naranja -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
