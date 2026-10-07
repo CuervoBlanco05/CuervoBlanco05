@@ -10,7 +10,7 @@
  -  Passionate about learning about scalable architectures and data science
  -   Looking for new challenges and collaborative projects
 
-   ---
+---
 
  ### Connect with me! 
 -  Ask me about development, coding, or technology
@@ -24,17 +24,17 @@
 </table>
 
 
-
+---
 
 <p align="center">
 
   <!-- Botón de LinkedIn -->
-  <a href="https://linkedin.com/in/TU_USUARIO">
+  <a href="https://linkedin.com/in/pablo-adrián-cárdenas-mendívil">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   
   <!-- Botón de Gmail -->
-  <a href="mailto:tuemail@gmail.com">
+  <a href="mailto:pabloadrian613@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
