@@ -1,14 +1,31 @@
-<p align="center">
+    ## Hi!, I'm Cuervo Blanco (White Crow) 
 
-  <!-- Badge con fondo amarillo -->
-  <img src="https://img.shields.io/badge/JAVASCRIPT-FFD700?style=for-the-badge&logo=python&logoColor=black" />
-  
-  <!-- Badge con fondo naranja -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-</p>
+<table border="0">
+  <tr>
+    <td valign="top" width="60%">
+      
+      
+    ### About Me
+      -  Student / Developer focused on **Backend / Software**
+      -  Currently working with **Python, SQL, and Web technologies**
+      -  Passionate about learning about scalable architectures and data science
+      -  Looking for new challenges and collaborative projects
 
-<img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/173cd13e-3c27-4f42-bb9f-a6838431f734" />
-## Hi, I'm Cuervo Blanco (White Crow) 
+      ---
+
+    ### Connect with me! 
+      -  Ask me about development, coding, or technology
+      -  Fun fact: I like pixel art and retro aesthetics
+      
+    </td>
+    <td align="center" valign="middle" width="40%">
+      <img src="CuervoBlanco-GIF-GitHub.gif" alt="Cuervo Blanco" width="280px" />
+    </td>
+  </tr>
+</table>
+
+
+
 
 <p align="center">
 
