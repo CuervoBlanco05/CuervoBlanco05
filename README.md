@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </p>
 
-<!-- Banner principal grande centrado --> <p align="center"> <img src=<img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/173cd13e-3c27-4f42-bb9f-a6838431f734" /> width="100%" alt="Banner Header" /> </p>
+<img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/173cd13e-3c27-4f42-bb9f-a6838431f734" />
 ## Hi, I'm Cuervo Blanco (White Crow) 
 
 <p align="center">
