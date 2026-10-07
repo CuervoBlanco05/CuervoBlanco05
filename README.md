@@ -1,4 +1,13 @@
-<!-- Banner principal grande centrado --> <p align="center"> <img src=["URL_DE_TU_IMAGEN_O_GIF.gif" ](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/README.md)width="100%" alt="Banner Header" /> </p>
+<p align="center">
+
+  <!-- Badge con fondo amarillo -->
+  <img src="https://img.shields.io/badge/JAVASCRIPT-FFD700?style=for-the-badge&logo=javascript&logoColor=black" />
+  
+  <!-- Badge con fondo naranja -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+</p>
+
+<!-- Banner principal grande centrado --> <p align="center"> <img src=<img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/173cd13e-3c27-4f42-bb9f-a6838431f734" /> width="100%" alt="Banner Header" /> </p>
 ## Hi, I'm Cuervo Blanco (White Crow) 
 
 <p align="center">
