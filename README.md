@@ -29,11 +29,11 @@
 
 I am a physics M.Sc. student working at the point where **scientific computing meets production analytics**.
 
-- 🔬 **Research** — Predicting vector meson masses with Variational Quantum Circuits, inside a non-perturbative QCD framework
-- 📊 **Work** — SQL analytics on a Yellowbrick / PostgreSQL warehouse: portfolio aging, cohort recovery, collection KPIs
-- ⚙️ **Building toward** — ML Engineering and MLOps: reproducible pipelines, model monitoring, responsible AI
-- 🧱 **Background** — Civil Engineering before Physics. Two ways of thinking about systems that fail
-- 🎮 **Fun fact** — Pixel art and retro aesthetics. The crow is mine
+-  **Research** — Predicting vector meson masses with Variational Quantum Circuits, inside a non-perturbative QCD framework
+-  **Work** — SQL analytics on a Yellowbrick / PostgreSQL warehouse: portfolio aging, cohort recovery, collection KPIs
+-  **Building toward** — ML Engineering and MLOps: reproducible pipelines, model monitoring, responsible AI
+-  **Background** — Civil Engineering before Physics. Two ways of thinking about systems that fail
+-  **Fun fact** — Pixel art and retro aesthetics. The crow is mine
 
 <br/>
 
