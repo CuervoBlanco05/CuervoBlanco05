@@ -90,9 +90,9 @@ I am a physics M.Sc. student working at the point where **scientific computing m
 
 <p align="left"><b>Scientific computing</b></p>
 <p align="left">
+  <img src="https://img.shields.io/badge/QIBO-161B22?style=for-the-badge&logo=atom&logoColor=58A6FF&labelColor=0D1117" alt="Qibo"/> 
   <img src="https://img.shields.io/badge/Qiskit-161B22?style=for-the-badge&logo=qiskit&logoColor=58A6FF&labelColor=0D1117" alt="Qiskit"/>
-  <img src="https://img.shields.io/badge/PENNYLANE-161B22?style=for-the-badge&logo=physics&logoColor=58A6FF&labelColor=0D1117" alt="PennyLane"/>
-  <img src="https://img.shields.io/badge/QIBO-161B22?style=for-the-badge&logo=octocat&logoColor=58A6FF&labelColor=0D1117" alt="Qibo"/>
+  <img src="https://img.shields.io/badge/PENNYLANE-161B22?style=for-the-badge&logo=python&logoColor=58A6FF&labelColor=0D1117" alt="PennyLane"/>
   <img src="https://img.shields.io/badge/SciPy-161B22?style=for-the-badge&logo=scipy&logoColor=58A6FF&labelColor=0D1117" alt="SciPy"/>
   <img src="https://img.shields.io/badge/LaTeX-161B22?style=for-the-badge&logo=latex&logoColor=58A6FF&labelColor=0D1117" alt="LaTeX"/>
 </p>
