@@ -1,7 +1,7 @@
 name: GitHub-Profile-3D-Contrib
 
 on:
-  schedule:
+  schedule: 
     # 18:00 UTC = 11:00 en Mazatlán. Se regenera una vez al día.
     - cron: "0 18 * * *"
   workflow_dispatch:   # permite ejecutarlo a mano desde la pestaña Actions
