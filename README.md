@@ -54,7 +54,7 @@ I am a physics M.Sc. student working at the point where **scientific computing m
 
 </td>
     <td align="center" valign="middle" width="42%">
-      <img src="CuervoBlanco-GIF-GitHub.gif" alt="Cuervo Blanco" width="300px" />
+      <img src="CuervoBlanco-GIF-GitHub.gif.gif" alt="Cuervo Blanco" width="300px" />
     </td>
   </tr>
 </table>
